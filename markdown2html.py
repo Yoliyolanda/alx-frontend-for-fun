@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Script that code a Markdown to HTML
+Script that code a Markdown.
 """
 import sys
 import os.path
